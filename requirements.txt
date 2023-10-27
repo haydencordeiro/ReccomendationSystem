@@ -15,3 +15,4 @@ tzdata
 uvicorn
 watchfiles
 websockets
+sklearn
