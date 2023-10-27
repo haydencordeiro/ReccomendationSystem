@@ -1,3 +1,4 @@
+annotated-types
 anyio
 click
 colorama
@@ -6,6 +7,20 @@ fastapi
 gensim
 h11
 httptools
+idna
+joblib
+numpy
+openpyxl
+pandas
+pydantic
+pydantic_core
+python-dateutil
+python-dotenv
+pytz
+PyYAML
+scikit-learn
+scipy
+six
 smart-open
 sniffio
 starlette
@@ -15,4 +30,3 @@ tzdata
 uvicorn
 watchfiles
 websockets
-sklearn
